@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzwOuMd7vCV+srCDcQgZSxYyCm1NYrpFWU6frUqzsQLq2O1TTQmlrcEUjbNFM5t3M8ads8BVNHtYbN7pHV0oiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\EventManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
+    "C:\\Users\\lucca\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://nuget.3sat.com.br/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}

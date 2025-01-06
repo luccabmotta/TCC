@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucca\\source\\repos\\EventManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|c:\\users\\lucca\\source\\repos\\eventmanager\\eventmanager\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|c:\\users\\lucca\\source\\repos\\eventmanager\\eventmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|c:\\users\\lucca\\source\\repos\\eventmanager\\eventmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|c:\\users\\lucca\\source\\repos\\eventmanager\\eventmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13318FA6-2125-49D6-ADF6-393FE3967057}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 330,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventManager\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventManager\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:52:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventManager\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventManager\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T13:38:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\Program.cs",
+              "RelativeDocumentMoniker": "EventManager\\Program.cs",
+              "ToolTip": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\Program.cs",
+              "RelativeToolTip": "EventManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:38:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\appsettings.json",
+              "RelativeDocumentMoniker": "EventManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucca\\source\\repos\\EventManager\\EventManager\\appsettings.json",
+              "RelativeToolTip": "EventManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T13:38:10.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
